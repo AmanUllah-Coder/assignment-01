@@ -193,36 +193,21 @@ background: rgba(0, 76, 232, 0.05);
     background: rgba(255, 223, 0, 0.05);
 }
 
-.lrn-btn{
+.lrn{
     /* Learn More */
-position: static;
 width: 284px;
 height: 19px;
 /* Auto layout */
 display: flex;
-flex-direction: column;
-justify-content: flex-start;
-align-items: flex-start;
-padding: 0px;
 border: none;
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 1;
-align-self: stretch;
-flex-grow: 0;
 margin: 24px 0px;
 
-color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+color: rgb(13, 19, 33); 
 font-size: 16px;
 font-weight: 700;
 line-height: 19px;
 letter-spacing: 0%;
-text-align: left;
-text-decoration-line: underline;
-    
+   
 }
 
 /* main style end here  */
