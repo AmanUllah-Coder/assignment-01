@@ -206,8 +206,64 @@ color: rgb(13, 19, 33);
 font-size: 16px;
 font-weight: 700;
 line-height: 19px;
-letter-spacing: 0%;
-   
+letter-spacing: 0%;   
 }
 
 /* main style end here  */
+
+/* Footer style start from here  */
+
+.footer-banner{
+background-image:url(../assets/handshake.jpg);       
+    background-position: center;
+    background-repeat: no-repeat;  
+    opacity: rgb(10, 5, 10);
+    height: 314px;
+    width: 1040px;
+    border-radius: 16px;
+    box-sizing: border-box;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 64px 48px 64px 48px;
+        
+}
+
+.footer-title{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700px;
+
+}
+
+.footer-des{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+.input-section{
+    text-align: center;
+    justify-content: center;
+}
+
+.input-text{
+    height: 57px;
+    width: 548px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+}
+
+.input-btn{
+    width: 120px;
+    height: 55px;
+    border-radius: 8px;
+background: rgb(255, 255, 255);
+}
+
+
+/* Footer End Here  */
