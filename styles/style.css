@@ -20,6 +20,7 @@ body {
 
 /* header style end  */
 
+
 /* main style start from here  */
 
 /* first section start  */
@@ -73,11 +74,8 @@ body {
 
 /* first section end  */
 
-/* second section start  */
 
-/* main {
-    background-color: rgba(247, 247, 247, 0.788);;
-} */
+/* second section start  */
 
 .second-sec-content{
     background-color: rgba(247, 247, 247, 0.886);;
@@ -126,6 +124,7 @@ body {
 }
 /* second section end  */
 
+
 /* third section start from here  */
 
 .inspiration{
@@ -147,8 +146,8 @@ iframe{
 
 /* third section end here  */
 
-/* fourth section style start here  */
 
+/* fourth section style start here  */
 
 .current-target{
     display: block;
@@ -197,6 +196,7 @@ background: rgba(0, 76, 232, 0.05);
     /* Learn More */
 width: 284px;
 height: 19px;
+
 /* Auto layout */
 display: flex;
 border: none;
@@ -210,6 +210,7 @@ letter-spacing: 0%;
 }
 
 /* main style end here  */
+
 
 /* Footer style start from here  */
 
