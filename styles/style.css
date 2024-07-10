@@ -133,11 +133,12 @@ body {
     margin-top: 80px;
 }
 .yt-video{
-    border: 3px solid white;
+    border: 1px solid white;
     text-align: center;
     display: block;
     justify-content: center;
-    margin-top: 20px;
+    padding: 0;
+    margin-top: 5px;
 }
 
 iframe{
@@ -146,5 +147,82 @@ iframe{
 
 /* third section end here  */
 
+/* fourth section style start here  */
+
+
+.current-target{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    border: 35px solid white;
+}
+
+/* fourth section style end here  */
+
+
+.fifth-sec{
+    margin: 10px;
+    border: 25px;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center
+}
+
+.html{
+    border: 10px solid white;
+    margin: 11px;
+    padding: 22px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05)
+}
+
+.css{
+    border: 10px solid white;
+    margin: 11px;
+    padding: 22px;
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+}
+
+.js{
+    border: 10px solid white;
+    margin: 11px;
+    padding: 22px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.lrn-btn{
+    /* Learn More */
+position: static;
+width: 284px;
+height: 19px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+border: none;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+    
+}
 
 /* main style end here  */
