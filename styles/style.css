@@ -26,7 +26,7 @@ body {
 /* first section start  */
 
 .hero-bg{
-    background-image: url('https://amanullah-coder.github.io/assignment-01/assets/Hero-bg.png');
+    background-image: url("https://amanullah-coder.github.io/assignment-01/assets/Hero-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     width: auto;
